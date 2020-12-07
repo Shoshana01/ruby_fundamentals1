@@ -29,8 +29,11 @@
 # what = "rope"
 # puts accusation = "It was #{who} in #{where} with the #{what}."
 
-counter = 25
-counter + 1
-# counter = counter+1
-counter +=1
-puts counter
+# counter = 25
+# counter + 1
+# # counter = counter+1
+# counter +=1
+# puts counter
+
+
+
